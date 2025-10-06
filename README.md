@@ -2,6 +2,10 @@
 
 An iOS application that helps users discover nearby coffee shops within a 10-mile radius using zip code search. Built with SwiftUI and MapKit.
 
+<div align="center">
+|<img width="270" alt="IMG_8800" src="https://github.com/user-attachments/assets/45922208-fa11-43e1-b4ac-78df556884e4" /> | <img width="270" alt="IMG_8801" src="https://github.com/user-attachments/assets/17902cff-ab4e-4d9e-a9b2-e8a04f979344" /> | <img width="270" alt="IMG_8802" src="https://github.com/user-attachments/assets/e263a3d8-f24d-4d9e-963a-3bc9c945acdf" /> | 
+</div>
+
 ## 📱 Features
 
 - **Location Search**: Find coffee shops within 10 miles of any US zip code or Canadian postal code
